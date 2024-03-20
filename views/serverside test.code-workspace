@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../server-side-rendering-server-side-website"
+		},
+		{
+			"path": "../public"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
